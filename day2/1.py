@@ -3,7 +3,7 @@
 #Scissors   C   Z
 
 s = 0
-with open("/Users/balintkozak/dev/python/aoc22/day2/input.txt","r") as f:
+with open("aoc22/day2/input.txt", "r") as f:
     for lines in f:
         l = ''
         

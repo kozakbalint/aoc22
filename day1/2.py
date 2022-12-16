@@ -1,7 +1,7 @@
 caloriesEach = []
 totalCalories = []
 max = 0
-with open("/Users/balintkozak/dev/python/aoc22/day1/input.txt","r") as f:
+with open("aoc22/day1/input.txt", "r") as f:
     for line in f:
         l  = ''
         for c in line:
